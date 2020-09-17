@@ -41,15 +41,7 @@
 
 <br />
 <br />
----
 
-### ⚡ Atividade Recente no Github
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
----
 
 ### Github Stats ⏲️
 
