@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente eu trabalho voluntariamente na [Empresa Junior Sharkcode][website]!
 - 🌱 Atualmente estou me aprofundando em node.js com typescript.🚀
-- 👯 Busco praticar o que aprende em pequenos projetos práticos.
+- 👯 Busco praticar em pequenos projetos práticos.
 - 🥅 Metas de 2020: criar meu site pessoal e um blog
 
 
@@ -43,14 +43,15 @@
 <br />
 ---
 
-## ⚡ Atividade Recente no Github
+### ⚡ Atividade Recente no Github
+
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
+---
 
-
-## Github Stats ⏲️
+### Github Stats ⏲️
 
   <img align="left" alt="Gustavo-franca's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Gustavo-franca&show_icons=true&hide_border=true" />
 
