@@ -6,7 +6,7 @@
 - 🔭 Atualmente eu trabalho voluntariamente na [Empresa Junior Sharkcode][website]!
 - 🌱 Atualmente estou me aprofundando em node.js com typescript.🚀
 - 👯 Busco praticar em pequenos projetos práticos.
-- 🥅 Metas de 2020: criar meu site pessoal e um blog
+- 🥅 Metas de 2021: Trabalhar profissionalmente como Programador
 
 
 ### Siga me nas redes:
