@@ -4,14 +4,14 @@
 ## Eu Sou Desenvolvedor e Estudante
 
 - 🔭 Atualmente eu trabalho voluntariamente na [Empresa Junior Sharkcode][website]!
-- 🌱 Atualmente estou me aprofundando em node.js com typescript.🚀
+- 🌱 Atualmente estou me aprofundando em microsserviços.🚀
 - 👯 Busco praticar em pequenos projetos práticos.
 - 🥅 Metas de 2021: Trabalhar profissionalmente como Programador
 
 
 ### Siga me nas redes:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Gustavo França | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [<img align="left" alt="Gustavo França | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -51,5 +51,5 @@
 
 
 [instagram]: https://instagram.com/gustacfranca/
-[linkedin]: https://www.linkedin.com/in/gustavo-c%C3%A2ndido-fran%C3%A7a-40330817a/
+[linkedin]: https://www.linkedin.com/in/gustavocfranca/
 
