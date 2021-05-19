@@ -3,10 +3,10 @@
 
 ## Eu Sou Desenvolvedor e Estudante
 
-- 🔭 Atualmente eu trabalho voluntariamente na [Empresa Junior Sharkcode][website]!
+- 🔭 Trabalho no [Mercado Livre ][website]!
 - 🌱 Atualmente estou me aprofundando em microsserviços.🚀
 - 👯 Busco praticar em pequenos projetos práticos.
-- 🥅 Metas de 2021: Trabalhar profissionalmente como Programador
+- 🥅 Metas de 2021 : Me aprofundar nas tecnologias do meli e contribuir para democratização do comércio na LATAM
 
 
 ### Siga me nas redes:
@@ -47,7 +47,7 @@
 
   <img align="left" alt="Gustavo-franca's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Gustavo-franca&show_icons=true&hide_border=true" />
 
-[website]: https://sharkcode.netlify.app/
+[website]: https://www.mercadolivre.com.br/
 
 
 [instagram]: https://instagram.com/gustacfranca/
