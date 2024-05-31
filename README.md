@@ -4,9 +4,6 @@
 ## Eu Sou Desenvolvedor e Estudante
 
 - 🔭 Trabalho no [Mercado Livre ][website]!
-- 🌱 Atualmente estou me aprofundando em microsserviços.🚀
-- 👯 Busco praticar em pequenos projetos práticos.
-- 🥅 Metas de 2021 : Me aprofundar nas tecnologias do meli e contribuir para democratização do comércio na LATAM
 
 
 ### Siga me nas redes:
@@ -28,6 +25,7 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Golang" width="26px" src="https://github.com/rfyiamcool/golang_logo/blob/master/png/golang_1.png" />
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
@@ -41,11 +39,6 @@
 
 <br />
 <br />
-
-
-### Github Stats ⏲️
-
-  <img align="left" alt="Gustavo-franca's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Gustavo-franca&show_icons=true&hide_border=true" />
 
 [website]: https://www.mercadolivre.com.br/
 
